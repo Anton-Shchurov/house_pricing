@@ -88,7 +88,7 @@ Best performing models:
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/Anton-Shchurov/house_pricing.git
-cd house_prices
+cd house_pricing
 ```
 
 2. **Install dependencies**:
